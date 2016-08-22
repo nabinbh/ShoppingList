@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Shopping List</string>
+    <string name="title_activity_main">Shopist</string>
+    <string name="delete">Do you want to Delete?</string>
+    <string name="dialog">Delete</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="banner_ad_unit_id">ca-app-pub-8893044134788927/8315342298</string>
+</resources>
